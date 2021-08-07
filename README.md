@@ -5,5 +5,5 @@ Arduino code snippets and use case examples
 
 "software_button_debounce" - code example of how to debounce a button in software
 
-
+"buton_matrix_get_values" - code example of how to get analog voltage values from a 4x4 keypad using one pin (instead of 8)
     
